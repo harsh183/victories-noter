@@ -38,3 +38,9 @@ And don't worry about mundane or trivial, it all matters and having a long list 
 
 - Cleaned up and made more changes to this script. See I'm okay with just spamming and overdoing wholesomeness xD maybe this gets old soon but how much ever it works just go for it :)
 
+- Today I also created a cli one liner to add onto the list
+
+- I wonder how well it picks up my successes
+
+- By the looks of it, I can now do both me typing away with and without string quotes, seems like I have my job done for my use cases
+
